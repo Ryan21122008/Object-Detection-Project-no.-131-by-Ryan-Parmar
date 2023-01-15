@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    background-size:cover;
+}
+#heading{
+    font-size:30px;
+    width:100%;
+    margin:0;
+    padding:15px;
+}
+.anchors{
+    margin:40px;
+    background-color:orange;
+    width:15%;
+}
+#Wardrobe, #TV, #AC, #Sofa, #Bed{
+    font-size:21px;
+}
