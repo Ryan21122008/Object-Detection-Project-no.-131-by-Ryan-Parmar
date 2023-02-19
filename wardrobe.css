@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    background-size:cover;
+    font-size:25px;
+}
+#heading{
+    font-size:30px;
+    width:100%;
+    margin:0;
+    padding:15px;
+}
+#status, #noofobjects{
+    margin:20px;
+}
+canvas{
+    border:3px solid black;
+    border-radius:3px;
+}
